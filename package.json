@@ -1,0 +1,19 @@
+{
+    "name": "com.bigeti.animatorparametercontroller",
+    "version": "1.0.0",
+    "displayName": "Unity animator parameter controller",
+    "description": "This package contains modules to control animator parameters.",
+    "dependencies": {},
+    "keywords": [
+        "animator",
+        "controller",
+        "controllers",
+        "parameter",
+        "parameters"
+    ],
+    "author": {
+        "name": "Ethem Kurt",
+        "email": "bigeti.ethem@gmail.com",
+        "url": "https://bigeti.de/"
+    }
+}
